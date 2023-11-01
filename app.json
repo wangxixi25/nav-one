@@ -3,6 +3,7 @@
     "name": "nav-one",
     "slug": "nav-one",
     "version": "1.0.0",
+    "scheme": "my-scheme",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
